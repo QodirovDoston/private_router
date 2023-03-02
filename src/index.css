@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.erro{
+  color: crimson;
+}
+
+.sec{
+  color: aquamarine;
+}
+
+.dost{
+  color : red;
+  width : 877px;
+  justify-content: b;
+}
+
+.img{
+  width: 450px;
+  height: 750px;
+}
